@@ -1,23 +1,17 @@
-Welcome to Lumache's documentation!
+¡Bienvenido al Soporte Técnico! 
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Estas paginas tienen la intención de crear documentación relacionada al Sistema Operativo Ubuntu,
+desde programación a utilizr los recursos de sistema.
 
 .. note::
 
-   This project is under active development.
+   Este proyecto está en desarrollo activo.
+   Escribir a mail: santosg572@gmail.com
 
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
    lavis
