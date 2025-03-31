@@ -1,8 +1,8 @@
 ¡Bienvenido al Soporte Técnico! 
 ===================================
 
-Estas paginas tienen la intención de crear la documentación necesaria para utilizar el  Sistema Operativo Ubuntu,
-desde programación a utilizr los recursos del sistema.
+Estas paginas tienen la intención de crear documentación necesaria para utilizar el  Sistema Operativo Ubuntu,
+desde programación a utilizar los recursos del sistema.
 
 .. note::
 
