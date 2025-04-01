@@ -35,6 +35,6 @@ Donde:
 ``velasco@172.24.80.90:/ParKini`` - es el folder remosto que se quiere alojar localmente
 
 ``parkinos`` - es el folder local que será un alias al folder remoto, es decir, si modificamos un archivo localmente, se actualizara 
-remotamente además. 
+remotamente también. 
 
 
