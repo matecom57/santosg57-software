@@ -26,11 +26,14 @@ sshfs
 
 Aloja un folder remoto en el home local.
 
-sshfs velasco@172.24.80.90:/ParKini ./parkinos
+.. code:: Bash
+
+   sshfs velasco@172.24.80.90:/ParKini ./parkinos
 
 Donde:
 
 ``velasco@172.24.80.90:/ParKini`` - es el folder remosto que se quiere alojar localmente
+
 ``parkinos`` - es el folder local que será un alias al folder remoto, es decir, si modificamos un archivo localmente, se actualizara 
 remotamente además. 
 
