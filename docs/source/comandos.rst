@@ -1,6 +1,9 @@
 Comados útiles
 ==============
 
+scp
+---
+
 Copiar un folder local ``ff`` a un sitio remoto:
 
 .. code:: Bash
@@ -16,4 +19,19 @@ Donde:
 ``/home/test/`` - es el folder donde se guardará el folder ``ff``
 
 ``132.248.248.189`` - es la dirección ``IP`` de la máquina remota
+
+
+sshfs
+-----
+
+Aloja un folder remoto en el home local.
+
+sshfs velasco@172.24.80.90:/ParKini ./parkinos
+
+Donde:
+
+``velasco@172.24.80.90:/ParKini`` - es el folder remosto que se quiere alojar localmente
+``parkinos`` - es el folder local que será un alias al folder remoto, es decir, si modificamos un archivo localmente, se actualizara 
+remotamente además. 
+
 
