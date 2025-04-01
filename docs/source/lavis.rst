@@ -1,20 +1,20 @@
-Maquina Virtual en LAVIS
+Máquina Virtual en LAVIS
 ========================
 
-Maquina Virtual en Laboratorio Nacional de Visualización Científica Avanzada. Esta maquina virtual 
-servira como un ambiente de trabajo temporal para manejar y analizar imagenes de resonancia 
-magnetica, estructurl y funcional.
+Esta máquina virtual esta en el Laboratorio Nacional de Visualización Científica Avanzada. Esta máquina virtual 
+servira como un ambiente de trabajo temporal para manejar y analizar imágenes de resonancia 
+magnética, estructural y funcional.
 
 Esta maquina cuenta con los software's: FSL, freesurfer, R, ...
 
 Para trabajar con esta maquina virtual se tienen dos opciones, en modo terminal (ssh) y en modo 
-interface grafico (x2goclient).
+interface grafico (x2goclient).(https://wiki.x2go.org/doku.php/download:start)
 
-El usuario y password que se tiwnw en esta maquinas es respectivamente: test , PruebaVM2025
+El usuario y password que se tiene en esta maquinas es respectivamente: test , PruebaVM2023
 
 La direccion IP es: 132.248.248.189
 
-Para trabajar en  x2goclient, hay que bajar de Internet el programa y despues configurar una secion, 
+Para trabajar en  x2goclient, hay que bajar de Internet el programa y después configurar una sesion, 
 como se muestra en la figura siguiente:
 
 .. image:: lavis.png

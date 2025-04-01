@@ -2,7 +2,7 @@
 ===================================
 
 Estas paginas tienen la intención de crear documentación necesaria para utilizar el  Sistema Operativo Ubuntu,
-desde programación a utilizar los recursos del sistema.
+desde crear programas de computo hasta utilizar los recursos del sistema.
 
 .. note::
 
